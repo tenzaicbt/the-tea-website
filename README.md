@@ -24,4 +24,7 @@ To run this website locally, follow these steps:
    git clone https://github.com/tenzaicbt/the-tea-website.git
 
 
-   
+### Demo Screeshots
+
+![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
