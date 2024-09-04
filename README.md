@@ -26,5 +26,5 @@ To run this website locally, follow these steps:
 
 ### Demo Screeshots
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Grilli Desktop Demo](./readme-images/desktop2.png "Desktop Demo")
 
