@@ -1,20 +1,27 @@
-<div align="center">
-  
+# Thé - Tea Sri Lanka Website
 
-  <br />
-  <br />
+Welcome to the official repository for the **Thé - Tea Sri Lanka** website. This website showcases our premium selection of Sri Lankan teas and provides an online platform for tea enthusiasts to explore, learn, and shop.
 
-  <h2 align="center">thé - teasrilanka</h2>
+## Features
 
-  thé - teasrilanka website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+- **Elegant Design**: A clean and modern design that reflects the elegance of Sri Lankan tea culture.
+- **Product Showcase**: Detailed pages for each tea product, including descriptions, pricing, and images.
+- **Interactive UI**: User-friendly navigation with interactive elements for an engaging user experience.
+- **Responsive Layout**: Fully responsive design to ensure a seamless experience on both desktop and mobile devices.
 
-  <a href="https://github.com/tenzalorde/main.git"><strong>➥ Live Demo</strong></a>
+## Technologies Used
 
-</div>
+- **HTML**: Structure and content of the website.
+- **CSS**: Styling and layout, including custom animations and responsive design.
+- **JavaScript**: Interactive elements and dynamic content.
 
-<br />
+## Getting Started
 
-### Demo Screeshots
+To run this website locally, follow these steps:
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/tenzaicbt/the-tea-website.git
 
+
+   
